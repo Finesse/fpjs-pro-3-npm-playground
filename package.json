@@ -1,0 +1,8 @@
+{
+  "name": "fpjs-pro-npm",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro": "^3"
+  }
+}
